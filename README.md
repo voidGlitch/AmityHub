@@ -1,3 +1,13 @@
+
+#IDEA OF THE PROJECT
+This is a new Project here I am working on a project where a user can access notes and previous year papers and study material related to the upcoming Examinations of amity university.
+As I am also a student of Amity University I have seen many students facing difficulty to gather information and study material in the exam times.So,this is basically based to help the upcoming students in their further Studies and guidance.
+
+
+
+#Steps related to development 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
