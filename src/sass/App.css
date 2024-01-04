@@ -11987,4 +11987,10 @@ body {
 .navbars {
   display: flex;
   height: 100vh;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 8;
 }/*# sourceMappingURL=App.css.map */

@@ -12,3 +12,9 @@ body {
   display: flex;
   height: 100vh;
 }
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 8;
+}
